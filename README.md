@@ -29,7 +29,7 @@ This is a simple Amazon clone website built using only **HTML** and **CSS**. It'
    ```
 2. Open the `index.html` file in your browser.
 
-Or [**click here to view it live**](https://roshnipache.github.io/Amazon_Clone_Project/)  
+Or [**click here to view it live**](http://127.0.0.1:5500/)  
 
 
 ## 🌱 Future Plans
