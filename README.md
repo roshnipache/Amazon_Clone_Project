@@ -17,9 +17,8 @@ This is a simple Amazon clone website built using only **HTML** and **CSS**. It'
 
 ## 📸 Screenshots
 
-![Homepage Screenshot](amazon.jpg)
+![Homepage Screenshot](amazon.jpg.png)
 
-> Make sure the `amazon.jpg` image is uploaded to your repository, in the same folder as this README file.
 
 ## 🚀 How to View It
 
