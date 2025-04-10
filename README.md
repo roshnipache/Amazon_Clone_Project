@@ -17,28 +17,26 @@ This is a simple Amazon clone website built using only **HTML** and **CSS**. It'
 
 ## 📸 Screenshots
 
-_Add some screenshots of your project here. You can upload images to your repo and link them like this:_
-
-```
-![Homepage Screenshot](images/screenshot1.png)
-```
+![Homepage Screenshot](amazon.jpg)
 
 ## 🚀 How to View It
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/amazon-clone-html-css.git
+   git clone https://github.com/roshnipache/Amazon_Clone_Project.git
    ```
 2. Open the `index.html` file in your browser.
 
-Or [click here to view it live](#)  
-_(Replace `#` with your GitHub Pages link if you deployed it!)_
+Or [click here to view it live](http://127.0.0.1:5500/)  
+_(This is a local server link — if you'd like to publish it online using GitHub Pages, I can help!)_
 
 ## 🌱 Future Plans
 
-- Make the design more responsive for mobile
+- Make the design more responsive for mobile devices
 - Add interactivity using JavaScript (like a working cart)
-- Learn how to use frameworks like Bootstrap or Tailwind CSS
+- Learn and apply UI/UX design principles
+- Explore frameworks like Bootstrap or Tailwind CSS
+- Add product filtering and search bar functionality
 
 ## 🙌 A Note from Me
 
