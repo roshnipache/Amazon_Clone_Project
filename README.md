@@ -1,4 +1,4 @@
-🛒 Amazon Clone (HTML & CSS)
+* 🛒 Amazon Clone (HTML & CSS)
 This is a simple Amazon clone website built using only HTML and CSS. It's my very first web development project, created to practice structuring web pages and styling them to look like a real e-commerce site.
 
 📚 What I Learned
