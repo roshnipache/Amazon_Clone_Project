@@ -19,13 +19,17 @@ This is a simple Amazon clone website built using only **HTML** and **CSS**. It'
 
 ![Homepage Screenshot](amazon.jpg)
 
+> Make sure the `amazon.jpg` image is uploaded to your repository, in the same folder as this README file.
+
 ## 🚀 How to View It
 
 1. Clone the repo:
    ```bash
    git clone https://github.com/roshnipache/Amazon_Clone_Project.git
    ```
-2. Open the `[click here to view it live](http://127.0.0.1:5500/) ` file in your browser.
+2. Open the `index.html` file in your browser.
+
+Or [**click here to view it live**](https://roshnipache.github.io/Amazon_Clone_Project/)  
 
 
 ## 🌱 Future Plans
