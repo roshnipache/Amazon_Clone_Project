@@ -25,10 +25,8 @@ This is a simple Amazon clone website built using only **HTML** and **CSS**. It'
    ```bash
    git clone https://github.com/roshnipache/Amazon_Clone_Project.git
    ```
-2. Open the `index.html` file in your browser.
+2. Open the `[click here to view it live](http://127.0.0.1:5500/) ` file in your browser.
 
-Or [click here to view it live](http://127.0.0.1:5500/)  
-_(This is a local server link — if you'd like to publish it online using GitHub Pages, I can help!)_
 
 ## 🌱 Future Plans
 
